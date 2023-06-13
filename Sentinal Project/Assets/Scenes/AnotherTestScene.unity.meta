@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Sentinal Project/Assets/Scenes/AnotherTestScene.unity.meta
 guid: 5131e180ed476774d82703e93b0d161c
+========
+guid: 5d5b8fd5a05fb3340adf1e91a519be58
+>>>>>>>> a5f190e43421946ddbe464f1d792ae4151fab525:Sentinal Project/Assets/Scenes/Mainmenu 1.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
